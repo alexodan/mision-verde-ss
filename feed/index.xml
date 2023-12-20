@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mision Verde</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 19 Dec 2023 01:43:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/12/logo-e1702952917441-150x150.png</url>
+	<title>Mision Verde</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[alexodan]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2023 00:19:31 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mejores vehiculos ecologicos</title>
+		<link>/mejores-vehiculos-ecologicos/</link>
+					<comments>/mejores-vehiculos-ecologicos/#respond</comments>
+		
+		<dc:creator><![CDATA[alexodan]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2023 01:38:15 +0000</pubDate>
+				<category><![CDATA[Eco Friendly]]></category>
+		<guid isPermaLink="false">/?p=5</guid>
+
+					<description><![CDATA[En la búsqueda constante de formas más amigables con el medio ambiente para desplazarnos, los vehículos ecológicos se han convertido en una opción popular. Entre los mejores vehículos de este tipo, destacan las bicicletas eléctricas. Bicicletas Eléctricas: Las bicicletas eléctricas, también conocidas como e-bikes, han ganado un gran impulso en popularidad en los últimos años. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>En la búsqueda constante de formas más amigables con el medio ambiente para desplazarnos, los vehículos ecológicos se han convertido en una opción popular. Entre los mejores vehículos de este tipo, destacan las bicicletas eléctricas.</p>
+
+
+
+<p><strong>Bicicletas Eléctricas:</strong></p>
+
+
+
+<p>Las bicicletas eléctricas, también conocidas como e-bikes, han ganado un gran impulso en popularidad en los últimos años. Estas bicicletas cuentan con un motor eléctrico que asiste al ciclista en su pedaleo, lo que facilita los viajes largos y las colinas empinadas. Son una excelente opción para quienes desean reducir su huella de carbono y disfrutar de un medio de transporte sostenible. Además, fomentan un estilo de vida activo y saludable.</p>
+
+
+
+<ul>
+<li>Su uso en favor de otros vehiculos ayudan a reducir la huella de carbono</li>
+
+
+
+<li>Fomentan un estilo de vida activo y saludable</li>
+
+
+
+<li>Son facheras(?)</li>
+</ul>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Like a normal bike, but way cooler!</p>
+<cite>William Shakespeare</cite></blockquote>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="585" data-id="7" src="/wp-content/uploads/2023/12/bike-1024x585.png" alt="" class="wp-image-7" srcset="/wp-content/uploads/2023/12/bike-1024x585.png 1024w, /wp-content/uploads/2023/12/bike-300x171.png 300w, /wp-content/uploads/2023/12/bike-768x439.png 768w, /wp-content/uploads/2023/12/bike-1536x878.png 1536w, /wp-content/uploads/2023/12/bike.png 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
+
+
+
+<p><strong>Scooters Eléctricos:</strong></p>
+
+
+
+<p>Los scooters eléctricos son otra alternativa ecológica que ha ganado terreno en las ciudades. Estos vehículos compactos y ágiles son ideales para desplazamientos cortos y urbanos. Emiten cero emisiones y contribuyen a descongestionar el tráfico en las áreas urbanas, lo que los convierte en una elección inteligente para la movilidad sostenible.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" width="900" height="565" data-id="8" src="/wp-content/uploads/2023/12/scooter.jpg" alt="" class="wp-image-8" srcset="/wp-content/uploads/2023/12/scooter.jpg 900w, /wp-content/uploads/2023/12/scooter-300x188.jpg 300w, /wp-content/uploads/2023/12/scooter-768x482.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure>
+</figure>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Spotify Embed: All Time Favourites" style="border-radius: 12px" width="100%" height="352" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/playlist/4geJJrbwqSZOiq2h6RB4ch?utm_source=oembed"></iframe>
+</div></figure>
+
+
+
+<p><strong>Coche Eléctrico:</strong></p>
+
+
+
+<p>Si necesitas un vehículo con mayor capacidad y autonomía, los coches eléctricos son una excelente opción. Con avances constantes en la tecnología de baterías, estos automóviles ofrecen un rendimiento comparable al de los vehículos tradicionales, pero sin las emisiones dañinas. Además, disfrutan de incentivos gubernamentales y son cada vez más accesibles.</p>
+
+
+
+<p>En resumen, los vehículos ecológicos como las bicicletas eléctricas, scooters eléctricos y coches eléctricos son excelentes alternativas para reducir nuestra huella ecológica y contribuir a un futuro más limpio y sostenible. Considera la opción que mejor se adapte a tus necesidades y contribuye al cuidado del medio ambiente mientras te desplazas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/mejores-vehiculos-ecologicos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
